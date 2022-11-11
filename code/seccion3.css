@@ -11,46 +11,22 @@
         font-size: 2rem;
     }
 
-    .seccion3 .img1 {
-        width: 19rem;
+    .seccion3 .imagenes {
+        margin: 3rem 0rem;
+        width: 18rem;
         height: 23rem;
-        margin-top: 4rem;
-        padding-left: 0.5rem;
     }
 
-    .seccion3 .img1 img {
+    .imagenes img {
         height: 100%;
         width: 100%;
-    }
-
-    .seccion3 .img2 {
-        width: 19rem;
-        height: 23rem;
+        padding-left: 1rem;
         margin-top: 2rem;
-        padding-left: 0.5rem;
     }
-
-    .seccion3 .img2 img {
-        height: 100%;
-        width: 100%;
-    }
-
-    .seccion3 .img3 {
-        width: 19rem;
-        height: 23rem;
-        margin-top: 2rem;
-        padding-left: 0.5rem;
-    }
-
-    .seccion3 .img3 img {
-        height: 100%;
-        width: 100%;
-    }
-
     .seccion3 .logo {
         width: 10rem;
         height: 3rem;
-        margin-top: 3rem;
+        margin-top: 52rem;
         padding-left: 5rem;
     }
 
@@ -73,46 +49,21 @@
         font-size: 3rem;
     }
 
-    .seccion3 .img1 {
-        width: 47rem;
+    .seccion3 .imagenes {
+        margin: 3rem 0rem;
+        width: 46rem;
         height: 35rem;
-        margin-top: 4rem;
-        padding-left: 0.5rem;
     }
 
-    .seccion3 .img1 img {
+    .imagenes img {
         height: 100%;
         width: 100%;
+        padding-left: 1rem;
     }
-
-    .seccion3 .img2 {
-        width: 47rem;
-        height: 35rem;
-        margin-top: 2rem;
-        padding-left: 0.5rem;
-    }
-
-    .seccion3 .img2 img {
-        height: 100%;
-        width: 100%;
-    }
-
-    .seccion3 .img3 {
-        width: 47rem;
-        height: 35rem;
-        margin-top: 2rem;
-        padding-left: 0.5rem;
-    }
-
-    .seccion3 .img3 img {
-        height: 100%;
-        width: 100%;
-    }
-
     .seccion3 .logo {
         width: 10rem;
         height: 3rem;
-        margin-top: 3rem;
+        margin-top: 75rem;
         padding-left: 18rem;
     }
 
@@ -120,4 +71,125 @@
         height: 100%;
         width: 100%;
     }
+
+}
+
+@media screen and (min-width: 1152px) {
+    .seccion3 {
+        color: var(--color1);
+        height: 100%;
+        width: 100%;
+    }
+
+    .seccion3 h1 {
+        margin-top: 20rem;
+        padding-left: 30rem;
+        font-size: 3rem;
+    }
+
+    .seccion3 .imagenes {
+        margin: 3rem 0rem;
+        width: 21.4rem;
+        height: 100%;
+        display: flex;
+    }
+
+    .imagenes img {
+        height: 25rem;
+        width: 100%;
+        padding-left: 2rem;
+    }
+
+    .seccion3 .logo {
+        width: 10rem;
+        height: 3rem;
+        margin-top: 0rem;
+        padding-left: 30rem;
+    }
+
+    .seccion3 .logo img {
+        height: 100%;
+        width: 100%;
+    }
+
+}
+
+@media screen and (min-width: 1440px) {
+    .seccion3 {
+        color: var(--color1);
+        height: 100%;
+        width: 100%;
+    }
+
+    .seccion3 h1 {
+        margin-top: 20rem;
+        padding-left: 38rem;
+        font-size: 3rem;
+    }
+
+    .seccion3 .imagenes {
+        margin: 3rem 0rem;
+        width: 38rem;
+        height: 100%;
+        display: flex;
+    }
+
+    .imagenes img {
+        height: 25rem;
+        width: 100%;
+        padding-left: 5rem;
+    }
+
+    .seccion3 .logo {
+        width: 10rem;
+        height: 3rem;
+        margin-top: 0rem;
+        padding-left: 39rem;
+    }
+
+    .seccion3 .logo img {
+        height: 100%;
+        width: 100%;
+    }
+
+}
+
+@media screen and (min-width: 1920px) {
+    .seccion3 {
+        color: var(--color1);
+        height: 100%;
+        width: 100%;
+    }
+
+    .seccion3 h1 {
+        margin-top: 20rem;
+        padding-left: 52rem;
+        font-size: 3rem;
+    }
+
+    .seccion3 .imagenes {
+        margin: 3rem 0rem;
+        width: 38rem;
+        height: 100%;
+        display: flex;
+    }
+
+    .imagenes img {
+        height: 35rem;
+        width: 100%;
+        padding-left: 5rem;
+    }
+
+    .seccion3 .logo {
+        width: 10rem;
+        height: 3rem;
+        margin-top: 0rem;
+        padding-left: 53rem;
+    }
+
+    .seccion3 .logo img {
+        height: 100%;
+        width: 100%;
+    }
+
 }
