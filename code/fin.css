@@ -1,0 +1,64 @@
+@media screen and (min-width: 320px) {
+    .Fin {
+        width:  100%;
+        height: 100%;
+    }
+
+    .Fin h1 {
+        font-size: 3rem;
+        color: var(--color1);
+        margin: 3rem 0.5rem;
+    }
+
+    .Fin .parte1 {
+        width: 20rem;
+        height: 100%;
+    }
+
+    .Fin .parte1 h5 {
+        font-size: 1.1rem;
+        margin: 0.5rem 0.5rem;
+        font-weight: 200;
+    }
+
+    
+}
+
+@media screen and (min-width: 768px) {
+    .Fin {
+        width:  100%;
+        height: 100%;
+    }
+
+    .Fin h1 {
+        font-size: 3.5rem;
+        color: var(--color1);
+        margin: 7rem 0.5rem;
+    }
+}
+
+@media scren and (min-width: 1152px) {
+    .Fin {
+        width:  100%;
+        height: 100%;
+    }
+
+    .Fin h1 {
+        font-size: 3.5rem;
+        color: var(--color1);
+        margin: 7rem 5rem;
+    }
+}
+
+@media scren and (min-width: 1440px) {
+    .Fin {
+        width:  100%;
+        height: 100%;
+    }
+
+    .Fin h1 {
+        font-size: 3.5rem;
+        color: var(--color1);
+        margin: 5rem 5rem;
+    }
+}

@@ -1,0 +1,308 @@
+@media screen and (min-width: 320px){
+    .seccion1 {
+        margin-top: 3rem;
+        height: 100%;
+    
+    }
+    
+    .seccion1 .contenido1 {
+        color: var(--color1);
+        width: 100%;
+    }
+    
+    .contenido1 h2 {
+        margin-top: 2rem;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.7rem;
+        margin: 1rem 1rem;
+    }
+    
+    .contenido1 .txt {
+        margin-top: 1rem;
+        display: flex;
+        width:max-content;
+        position: relative;
+        align-items: center;
+        margin: 0rem 1rem;
+    }
+    
+    .contenido1 .txt h3 {
+        color: var(--color1);
+        font-weight: 400;
+        font-size: 2rem;
+    }
+    
+    .contenido1 .txt h1 {
+        display: flex;
+        padding-left: 0.4rem;
+        font-size: 2.2rem;
+    }
+    
+    .contenido1 h4 {
+        font-size: 1.2rem;
+        font-weight: 400;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+    
+    .contenido1 p {
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+        font-size: 1.2rem;
+    }
+
+    .seccion1 img {
+        margin: 4rem 1rem;
+        height: 20rem;
+        width: 18rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .seccion1 {
+        margin-top: 3rem;
+        height: 100%;
+    
+    }
+
+    .seccion1 .contenido1 {
+        color: var(--color1);
+        width: 100%;
+    }
+    
+    .contenido1 h2 {
+        margin-top: 2rem;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.7rem;
+        margin: 1rem 1rem;
+    }
+
+    .contenido1 .txt {
+        margin-top: 1rem;
+        display: flex;
+        width:max-content;
+        position: relative;
+        align-items: center;
+        margin: 0rem 1rem;
+    }
+
+    .contenido1 .txt h3 {
+        color: var(--color1);
+        font-weight: 400;
+        font-size: 5rem;
+    }
+    
+    .contenido1 .txt h1 {
+        display: flex;
+        padding-left: 1rem;
+        font-size: 5rem;
+    }
+    
+    .contenido1 h4 {
+        font-size: 2.5rem;
+        font-weight: 400;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+    
+    .contenido1 p {
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+        font-size: 1.6rem;
+    }
+
+    .seccion1 img {
+        margin: 4rem 1rem;
+        height: 40rem;
+        width: 46rem;
+    }
+}
+
+@media screen and (min-width: 1152px) {
+    .seccion1 {
+        margin-top: 3rem;
+        height: 100%;
+        display: flex;
+    }
+
+    .seccion1 .contenido1 {
+        color: var(--color1);
+        width: 39rem;
+    }
+    
+    .contenido1 h2 {
+        margin-top: 2rem;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.7rem;
+        margin: 1rem 1rem;
+    }
+
+    .contenido1 .txt {
+        margin-top: 1rem;
+        display: flex;
+        width:max-content;
+        position: relative;
+        align-items: center;
+        margin: 0rem 1rem;
+    }
+
+    .contenido1 .txt h3 {
+        color: var(--color1);
+        font-weight: 400;
+        font-size: 5rem;
+    }
+    
+    .contenido1 .txt h1 {
+        display: flex;
+        padding-left: 1rem;
+        font-size: 5rem;
+    }
+    
+    .contenido1 h4 {
+        font-size: 2.5rem;
+        font-weight: 400;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+    
+    .contenido1 p {
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+        font-size: 1.6rem;
+    }
+
+    .seccion1 img {
+        height: 30rem;
+        width: 30rem;
+        padding-left: 0rem;
+        display: flex;
+        flex-direction: row;
+        object-fit: contain;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .seccion1 {
+        margin-top: 3rem;
+        height: 100%;
+        display: flex;
+    }
+
+    .seccion1 .contenido1 {
+        color: var(--color1);
+        width: 52rem;
+    }
+    
+    .contenido1 h2 {
+        margin-top: 2rem;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.7rem;
+        margin: 1rem 1rem;
+    }
+
+    .contenido1 .txt {
+        margin-top: 1rem;
+        display: flex;
+        width:max-content;
+        position: relative;
+        align-items: center;
+        margin: 0rem 1rem;
+    }
+
+    .contenido1 .txt h3 {
+        color: var(--color1);
+        font-weight: 400;
+        font-size: 5rem;
+    }
+    
+    .contenido1 .txt h1 {
+        display: flex;
+        padding-left: 1rem;
+        font-size: 5rem;
+    }
+    
+    .contenido1 h4 {
+        font-size: 2.5rem;
+        font-weight: 400;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+    
+    .contenido1 p {
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+        font-size: 1.6rem;
+    }
+
+    .seccion1 img {
+        height: 40rem;
+        width: 35rem;
+        padding-left: 1.8rem;
+        display: flex;
+        flex-direction: row;
+        object-fit:contain;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    .seccion1 {
+        margin-top: 3rem;
+        height: 100%;
+        display: flex;
+        margin: 0rem 6rem;
+    }
+
+    .seccion1 .contenido1 {
+        color: var(--color1);
+        width: 80rem;
+    }
+    
+    .contenido1 h2 {
+        margin-top: 4rem;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 3rem;
+    }
+
+    .contenido1 .txt {
+        margin-top: 1rem;
+        display: flex;
+        width:max-content;
+        position: relative;
+        align-items: center;
+        margin: 0rem 1rem;
+    }
+
+    .contenido1 .txt h3 {
+        color: var(--color1);
+        font-weight: 400;
+        font-size: 5rem;
+    }
+    
+    .contenido1 .txt h1 {
+        display: flex;
+        padding-left: 1rem;
+        font-size: 5rem;
+    }
+    
+    .contenido1 h4 {
+        font-size: 2.5rem;
+        font-weight: 400;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+    
+    .contenido1 p {
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+        font-size: 1.6rem;
+    }
+
+    .seccion1 img {
+        height: 50rem;
+        width: 50rem;
+        display: flex;
+        flex-direction: row;
+        object-fit:contain;
+        padding-left: 3rem;
+    }
+}

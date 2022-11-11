@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: auto;
+    font-family:'Rubik', sans-serif;
+}
+
+:root {
+    --color1: rgba(37, 36, 36, 0.966);
+    --color2: #f0f8ff; 
+}
