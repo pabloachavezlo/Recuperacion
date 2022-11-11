@@ -174,7 +174,7 @@
     .seccion1 img {
         height: 30rem;
         width: 30rem;
-        padding-left: 0rem;
+        padding-left: 5rem;
         display: flex;
         flex-direction: row;
         object-fit: contain;
