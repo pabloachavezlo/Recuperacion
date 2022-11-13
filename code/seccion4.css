@@ -8,7 +8,395 @@
 
     .seccion4 h1 {
         font-size: 3rem;
-        margin: 0rem 0.5rem;
+        margin: 0rem 1rem;
         font-weight: 600;
+    }
+
+    .seccion4 img {
+        height: 23rem;
+        width: 18rem;
+        padding-left: 1rem;
+        margin-top: 7rem;
+    }
+
+    .seccion4 .Texto {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Texto .parte1 {
+        margin-top: 1rem;
+    }
+        
+    .parte1 .logo1 {
+        width: 6rem;
+        height: 5rem;
+        margin-top: 3rem;
+    }
+
+    .parte1 p {
+        margin: 0rem 1rem;
+        font-size: 1.1rem;
+        font-weight: 500;
+    }
+
+    .parte1 .logo2 {
+        width: 6rem;
+        height: 5rem;
+        padding-left: 14rem;
+        margin-top: 0.2rem;
+    }
+
+    .Texto .parte2 {
+        margin-top: 1rem;
+    }
+
+    .parte2 h4 {
+        font-size: 2rem;
+        margin: 0rem 1rem;
+        margin-top: 4rem;
+    }
+
+    .parte2 p {
+        font-size: 1.4rem;
+        margin: 0rem 1rem;
+        margin-top: 2rem;
+    }
+
+    .seccion4 .imag {
+        width: 10rem;
+        height: 2.5rem;
+        margin-top: 2rem;
+        padding-left: 5.3rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .seccion4 {
+        width: 100%;
+        height: 100%;
+        color: var(--color1);
+        margin-top: 15rem;
+    }
+
+    .seccion4 h1 {
+        font-size: 3rem;
+        padding-left: 12rem;
+        font-weight: 600;
+    }
+
+    .seccion4 img {
+        height: 23rem;
+        width: 20.5rem;
+        padding-left: 15rem;
+        margin-top: 5rem;
+    }
+
+    .seccion4 .Texto {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Texto .parte1 {
+        margin-top: 1rem;
+    }
+        
+    .parte1 .logo1 {
+        width: 6rem;
+        height: 5rem;
+        margin-top: 3rem;
+        padding-left: 1rem;
+    }
+
+    .parte1 p {
+        margin: 0rem 1rem;
+        font-size: 2rem;
+        font-weight: 500;
+    }
+
+    .parte1 .logo2 {
+        width: 6rem;
+        height: 5rem;
+        padding-left: 41.4rem;
+        margin-top: 0.2rem;
+    }
+
+    .Texto .parte2 {
+        margin-top: 1rem;
+    }
+
+    .parte2 h4 {
+        font-size: 2rem;
+        margin: 0rem 1rem;
+        margin-top: 4rem;
+    }
+
+    .parte2 p {
+        font-size: 1.4rem;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+
+    .seccion4 .imag {
+        width: 10rem;
+        height: 2.5rem;
+        margin-top: 3.5rem;
+        padding-left: 19rem;
+    }
+}
+
+@media screen and (min-width: 1152px) {
+    .seccion4 {
+        width: 100%;
+        height: 100%;
+        color: var(--color1);
+        margin-top: 15rem;
+    }
+
+    .seccion4 .Client {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Client h1 {
+        font-size: 3rem;
+        padding-left: 25rem;
+        font-weight: 600;
+    }
+
+    .seccion4 .Texto {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        width:max-content;
+        align-items: column;
+        font-weight: 800;
+    }
+
+    .Texto img {
+        height: 38rem;
+        width: 34rem;
+        padding-left: 1rem;
+        flex-direction: row;
+    }
+    .Texto .parte1 {
+        margin-top: 1rem;
+        width: 35.5rem;
+        padding-left: 1.5rem;
+    }
+        
+    .parte1 .logo1 {
+        width: 6rem;
+        height: 5rem;
+        margin-top: 5rem;
+        padding-left: 1rem;
+
+    }
+
+    .parte1 p {
+        margin: 0rem 1rem;
+        font-size: 2rem;
+        font-weight: 500;
+    }
+
+    .parte1 .logo2 {
+        width: 6rem;
+        height: 5rem;
+        padding-left: 28.9rem;
+        margin-top: 0.5rem;
+    }
+
+
+    .Texto .parte2 {
+        margin-top: 1rem;
+    }
+
+    .parte2 h4 {
+        font-size: 2rem;
+        margin: 0rem 1rem;
+        margin-top: 4rem;
+    }
+
+    .parte2 p {
+        font-size: 1.4rem;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+
+    .parte2 .imag {
+        width: 10rem;
+        height: 2.5rem;
+        margin-top: 5.5rem;
+        padding-left: 1rem;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .seccion4 {
+        width: 100%;
+        height: 100%;
+        color: var(--color1);
+        margin-top: 20rem;
+    }
+
+    .seccion4 .Client {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Client h1 {
+        font-size: 3rem;
+        padding-left: 33rem;
+        font-weight: 600;
+    }
+
+    .seccion4 .Texto {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        width:max-content;
+        align-items: column;
+        font-weight: 800;
+    }
+
+    .Texto img {
+        height: 44rem;
+        width: 38rem;
+        padding-left: 1rem;
+        flex-direction: row;
+    }
+    .Texto .parte1 {
+        margin-top: 1rem;
+        width: 46rem;
+        padding-left: 5rem;
+    }
+        
+    .parte1 .logo1 {
+        width: 7rem;
+        height: 6rem;
+        margin-top: 5rem;
+        padding-left: 1rem;
+
+    }
+
+    .parte1 p {
+        margin: 0rem 1rem;
+        font-size: 2.2rem;
+        font-weight: 500;
+    }
+
+    .parte1 .logo2 {
+        width: 7rem;
+        height: 6rem;
+        padding-left: 38.5rem;
+        margin-top: 0.5rem;
+    }
+
+    .Texto .parte2 {
+        margin-top: 7rem;
+    }
+
+    .parte2 h4 {
+        font-size: 2rem;
+        margin: 0rem 1rem;
+        margin-top: 4rem;
+    }
+
+    .parte2 p {
+        font-size: 1.4rem;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+
+    .parte2 .imag {
+        width: 10rem;
+        height: 2.5rem;
+        margin-top: 5.5rem;
+        padding-left: 1rem;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    .seccion4 {
+        width: 100%;
+        height: 100%;
+        color: var(--color1);
+        margin-top: 20rem;
+    }
+
+    .seccion4 .Client {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Client h1 {
+        font-size: 3rem;
+        padding-left: 45rem;
+        font-weight: 600;
+    }
+
+    .seccion4 .Texto {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        width:max-content;
+        align-items: column;
+        font-weight: 800;
+        margin: 0rem 8rem;
+    }
+
+    .Texto img {
+        height: 44rem;
+        width: 38rem;
+        flex-direction: row;
+    }
+    .Texto .parte1 {
+        margin-top: 1rem;
+        width: 58rem;
+        padding-left: 5rem;
+    }
+        
+    .parte1 .logo1 {
+        width: 7rem;
+        height: 6rem;
+        margin-top: 5rem;
+        padding-left: 1rem;
+
+    }
+
+    .parte1 p {
+        margin: 0rem 1rem;
+        font-size: 2.5rem;
+        font-weight: 500;
+    }
+
+    .parte1 .logo2 {
+        width: 7rem;
+        height: 6rem;
+        padding-left: 54rem;
+        margin-top: 0.5rem;
+    }
+
+    .Texto .parte2 {
+        margin-top: 9rem;
+    }
+
+    .parte2 h4 {
+        font-size: 2rem;
+        margin: 0rem 1rem;
+        margin-top: 4rem;
+    }
+
+    .parte2 p {
+        font-size: 1.4rem;
+        margin: 0rem 1rem;
+        margin-top: 1rem;
+    }
+
+    .parte2 .imag {
+        width: 10rem;
+        height: 2.5rem;
+        margin-top: 5.5rem;
+        padding-left: 1rem;
     }
 }
