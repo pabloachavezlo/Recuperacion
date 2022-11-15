@@ -54,76 +54,10 @@
         margin-top: 1rem;
     }
 }
-
-@media screen and (min-width: 768px) {
-    .Fin {
-        width:  100%;
-        height: 100%;
-    }
-
-    .Fin h1 {
-        font-size: 3rem;
-        color: var(--color1);
-        padding-left: 1rem;
-        margin-top: 15rem;
-    }
-
-    .Fin .parte1 {
-        width: 20rem;
-        height: 100%;
-    }
-
-    .parte1 h5 {
-        font-size: 1.1rem;
-        padding-left: 1rem;
-        font-weight: 200;
-        margin-top: 2rem;
-    }   
-    
-    .parte1 .datos {
-        font-size: 1.1rem;
-        padding-left: 0.6rem;
-        margin-top: 5rem;
-        font-weight: 200;
-    }
-
-    .parte1 img {
-        height: 25rem;
-        width: 18rem;
-        padding-left: 1rem;
-        margin-top: 5rem;
-    }
-
-    .Fin .parte2 {
-        width: 20rem;
-        height: 100%;
-
-    }
-
-    .parte2 img {
-        height: 100%;
-        width: 100%;
-    }
-
-    .parte2 h5 {
-        font-weight: 400;
-        padding-left: 3rem;
-        margin-top: 1rem;
-    }
-}
-
-@media scren and (min-width: 1152px) {
-    .Fin {
-        width:  100%;
-        height: 100%;
-    }
-
-    .Fin h1 {
-        font-size: 3.5rem;
-        color: var(--color1);
-        margin: 7rem 5rem;
-    }
-}
+    <div class="parte2">
+        <img src="./images/Logo4.png">
+        <h5>© 2020 Ozart Portfolio Template</h5>
+    </div>
 
 @media scren and (min-width: 1440px) {
     .Fin {
