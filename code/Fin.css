@@ -30,6 +30,10 @@
         font-weight: 200;
     }
 
+    .datos li {
+        margin-top: 1rem;
+    }
+
     .parte1 img {
         height: 25rem;
         width: 18rem;
