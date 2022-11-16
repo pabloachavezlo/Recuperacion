@@ -137,15 +137,6 @@
         margin: 1rem 1rem;
     }
 
-    .contenido1 .txt {
-        margin-top: 1rem;
-        display: flex;
-        width:max-content;
-        position: relative;
-        align-items: center;
-        margin: 0rem 1rem;
-    }
-
     .contenido1 .txt h3 {
         color: var(--color1);
         font-weight: 400;
